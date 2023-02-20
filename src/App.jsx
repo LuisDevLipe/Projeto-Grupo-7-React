@@ -2,7 +2,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import './App.css';
 
 
-import NavBar from './components/NavBar';
+import NavBar from './components/Navbar';
 import Home from './routes/Home';
 import Footer from './components/Footer';
 
