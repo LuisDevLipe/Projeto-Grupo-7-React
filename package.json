@@ -3,7 +3,7 @@
   "private": false,
   "version": "0.0.0",
   "type": "module",
-  "homepage":"Projeto-Grupo-7-React/",
+  "homepage":"https://luisdevlipe.github.io/Projeto-Grupo-7-React/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
